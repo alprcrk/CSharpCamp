@@ -20,9 +20,13 @@ namespace OOP1
             Product product2 = new Product { Id = 2, CategoryId = 5, UnitsInStock = 5, ProductName = "Kalem", UnitPrice = 35 };
             //PascalCase    //camelCase
             ProductManager productManager = new ProductManager();
-            productManager.Add();
+            productManager.Add(product1);
+            Console.WriteLine(product1.ProductName);
 
 
+            // int, double,bool.. değer tip
+            // diziler, class, abstract class, interface... referans tip
+            // ref out
         }
     }
 }

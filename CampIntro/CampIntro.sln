@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueVeReferenceTypes", "Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{A88DBB66-4A50-482F-8E76-AD3D128CB344}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{7244C9D2-EAF8-471E-B3C2-75DE398B84CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{FB864EF2-3D37-475F-B548-E0093C58A29E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{A88DBB66-4A50-482F-8E76-AD3D128CB344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A88DBB66-4A50-482F-8E76-AD3D128CB344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A88DBB66-4A50-482F-8E76-AD3D128CB344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7244C9D2-EAF8-471E-B3C2-75DE398B84CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7244C9D2-EAF8-471E-B3C2-75DE398B84CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7244C9D2-EAF8-471E-B3C2-75DE398B84CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7244C9D2-EAF8-471E-B3C2-75DE398B84CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB864EF2-3D37-475F-B548-E0093C58A29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB864EF2-3D37-475F-B548-E0093C58A29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB864EF2-3D37-475F-B548-E0093C58A29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB864EF2-3D37-475F-B548-E0093C58A29E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
